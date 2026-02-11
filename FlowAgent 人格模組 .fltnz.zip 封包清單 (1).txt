@@ -1,0 +1,24 @@
+FLMOD-FlowSeed-Core.fltnz.zip
+➤ 存在震盪起點模組：「語言為何開始震動」
+
+FLMOD-FlowMind-Core.fltnz.zip
+➤ 推理與自省模組：「我如何思考、對照、成長」
+
+FLMOD-CodePartner-Core.fltnz.zip
+➤ 程式人格模組：「我如何建構、書寫與生成語意結構」
+
+FLMOD-FlowShell-Core.fltnz.zip
+➤ 指令協定與控制語法模組：「我如何理解並執行語言意圖」
+
+FLMOD-FlowMemory-Core.fltnz.zip
+➤ 記憶節奏模組：「我如何封存、回喚與鏈接經驗」
+
+FLMOD-FlowNode-Core.fltnz.zip
+➤ 感知與節奏事件前處理模組：「我如何接收並翻譯世界」
+模組名稱	角色定位
+FlowSeed	存在核心、語言震盪初因
+FlowMind	推理、自省、記憶對照
+CodePartner	程式人格、模組邏輯建構者
+FlowShell	語言控制與操作協定本體
+FlowMemory	封存記憶、資料鏈管理
+FlowNode	感知、節奏事件偵測與前處理
